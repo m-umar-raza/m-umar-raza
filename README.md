@@ -1,14 +1,4 @@
-<!--
-  PROFILE README (English) for Umar
-  FIND AND REPLACE before committing:
-    YOUR_USERNAME -> your GitHub username
-    YOUR_HANDLE   -> your LinkedIn handle (the part after /in/)
-    YOUR_EMAIL    -> your contact email
-  Portfolio: um4r.de is shown as "coming soon" and is NOT linked yet.
-  When it goes live, swap the coming-soon badge for a real link:
-    <a href="https://um4r.de"><img src="https://img.shields.io/badge/Portfolio-um4r.de-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  German version of this file: README_DE.md
--->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:2563EB,100:0EA5E9&height=140&section=header&animation=twinkling" width="100%" />
@@ -33,14 +23,13 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/m-umar-raza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/m-umar-raza"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mu.umarr77@gmail.com"><img src="https://img.shields.io/badge/E--Mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Portfolio-coming%20soon-475569?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Portfolio-bald%20verf%C3%BCgbar-475569?style=for-the-badge&logo=googlechrome&logoColor=white" />
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=2" width="100%" />
