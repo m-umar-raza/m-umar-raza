@@ -1,12 +1,4 @@
-<!--
-  PROFILE README (Deutsch) fuer Umar
-  VOR DEM COMMIT ERSETZEN:
-    m-umar-raza -> dein GitHub Benutzername
-       -> dein LinkedIn Handle (der Teil nach /in/)
-    YOUR_EMAIL    -> deine Kontakt E-Mail
-  Portfolio: um4r.de wird als "bald verfuegbar" angezeigt und ist noch NICHT verlinkt.
-  Englische Version dieser Datei: README.md
--->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:2563EB,100:0EA5E9&height=140&section=header&animation=twinkling" width="100%" />
