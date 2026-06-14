@@ -29,7 +29,7 @@
 &nbsp;
 <a href="mailto:mu.umarr77@gmail.com"><img src="https://img.shields.io/badge/E--Mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Portfolio-bald%20verf%C3%BCgbar-475569?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Coming Soon-475569?style=for-the-badge&logo=googlechrome&logoColor=white" />
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=2" width="100%" />
