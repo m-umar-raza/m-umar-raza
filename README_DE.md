@@ -1,8 +1,8 @@
 <!--
   PROFILE README (Deutsch) fuer Umar
   VOR DEM COMMIT ERSETZEN:
-    YOUR_USERNAME -> dein GitHub Benutzername
-    YOUR_HANDLE   -> dein LinkedIn Handle (der Teil nach /in/)
+    m-umar-raza -> dein GitHub Benutzername
+       -> dein LinkedIn Handle (der Teil nach /in/)
     YOUR_EMAIL    -> deine Kontakt E-Mail
   Portfolio: um4r.de wird als "bald verfuegbar" angezeigt und ist noch NICHT verlinkt.
   Englische Version dieser Datei: README.md
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/m-umar-raza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/m-umar-raza"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/E--Mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mu.umarr77@gmail.com"><img src="https://img.shields.io/badge/E--Mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Portfolio-bald%20verf%C3%BCgbar-475569?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
